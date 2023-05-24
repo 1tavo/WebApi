@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWebApiRest", "AspNetWebApiRest\AspNetWebApiRest.csproj", "{0BBFDA23-17B5-4EA5-9C2B-480E7837594F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBFDA23-17B5-4EA5-9C2B-480E7837594F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBFDA23-17B5-4EA5-9C2B-480E7837594F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBFDA23-17B5-4EA5-9C2B-480E7837594F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBFDA23-17B5-4EA5-9C2B-480E7837594F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B7D6157-4275-4820-B964-40453882A16D}
+	EndGlobalSection
+EndGlobal
